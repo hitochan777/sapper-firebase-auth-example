@@ -14,7 +14,7 @@ const dev = NODE_ENV === "development";
 
 admin.initializeApp({
   credential: admin.credential.applicationDefault(),
-  databaseURL: "https://polyglot-3f093.firebaseio.com"
+  databaseURL: "database URL here"
 });
 
 const app = express();
