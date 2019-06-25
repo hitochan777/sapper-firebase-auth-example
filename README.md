@@ -2,7 +2,7 @@
 
 ## Install
 
-```
+```bash
 npm ci
 # applying patch is necessary for SSR with authentication to work at this moment
 sh apply-patch-server.sh # for linux
