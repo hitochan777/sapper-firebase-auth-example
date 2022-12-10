@@ -20,7 +20,7 @@
     "compression": "^1.7.1",
     "cookie-parser": "^1.4.4",
     "css-loader": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^6.1.1",
     "firebase-admin": "^8.0.0",
     "ky": "^0.11.1",
